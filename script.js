@@ -26,7 +26,7 @@ productContainers.forEach((item, i) => {
 })
 
 const stories = [...document.querySelectorAll('.stories-carousel-row')];
-const nxtBtnstories = [...document.querySelectorAll('.nxt-btn-stories')];
+const nxtBtnstories = document.querySelector('.nxt-btn-stories');
 
 
 stories.forEach((item, i) => {

@@ -716,6 +716,7 @@ body {
     gap: 2.4rem;
     width: 90vw;
     padding: 3rem;
+    border-bottom: 1px solid whitesmoke;
 }
 
 .address-column {
